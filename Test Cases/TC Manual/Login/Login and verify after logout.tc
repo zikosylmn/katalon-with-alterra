@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login and verify after logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aef9f219-58fa-4067-9582-08737035ca03</testCaseGuid>
+</TestCaseEntity>
